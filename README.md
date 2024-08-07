@@ -1,4 +1,12 @@
+Found the median birthday over the course of the year and plotted some birthrate data
+
 Data Set - https://www.kaggle.com/datasets/ayessa/birthday
+
+Below is the original dataset's README
+
+
+
+
 
 
 ------------------------------------------------------------------------------------------------------------------------------
@@ -20,5 +28,3 @@ Header | Definition
 `day_of_week` | Day of week, where 1 is Monday and 7 is Sunday
 `births` | Number of births
 --------------------------------------------------------------------------------------------------------------------------------------------
-
-^ original dataset's README
