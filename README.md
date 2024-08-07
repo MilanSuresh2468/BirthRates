@@ -1,4 +1,4 @@
-Found the median birthday over the course of the year and plotted some birthrate data
+Found the median birthday over the course of the year
 
 Data Set - https://www.kaggle.com/datasets/ayessa/birthday
 
