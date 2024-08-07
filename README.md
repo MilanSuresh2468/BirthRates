@@ -1,4 +1,4 @@
-Found the median birthday over the course of the year
+Afternoon Activity - Found the median birthday (the date at which half the births in the year have occurred) 
 
 Data Set - https://www.kaggle.com/datasets/ayessa/birthday
 
