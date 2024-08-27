@@ -1,4 +1,4 @@
-Afternoon Activity - Found the median birthday (the date at which half the births in the year have occurred) 
+Afternoon Activity - Found the median birthday (the date at which half the births in the year occur). Some of the graphs are missing ¯\_(ツ)_/¯
 
 Data Set - https://www.kaggle.com/datasets/ayessa/birthday
 
